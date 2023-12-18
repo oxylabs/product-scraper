@@ -10,7 +10,7 @@ You can get HTML results by providing your own URLs to our service. We can retur
 
 #### Python code example
 
-The example below illustrates how you can get HTML of a bellroy.com product page.
+The example below illustrates how you can get HTML of a [bellroy.com](https://bellroy.com/products/slim-sleeve-wallet?color=cocoa-java&material=leather&size=default) product page.
 
 ```python
 import requests
